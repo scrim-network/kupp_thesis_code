@@ -8,7 +8,7 @@ The thesis investigates the potential effects of sea-level rise on islands in th
 
 Caitlin's thesis work was supervised by Profs. Klaus Keller and Peter Heaney in the Department of Geosciences, and by Patrick Applegate, a Research Associate in the Earth and Environmental Systems Institute.  
 
-Patrick Applegate and Greg Garner contributed to Caitlin's code.  Kelsey Ruckert formatted the code, as copied from the thesis, so that it would run in R.  Greg Garner is a Research Associate and Kelsey Ruckert is a Scientific Programmer, also in the Earth and Environmental Systems Institute.  
+Patrick Applegate and Greg Garner contributed to Caitlin's code.  Kelsey Ruckert formatted the code, as copied from the thesis, so that it would run in R.  Greg Garner is a Postdoctoral Scholar and Kelsey Ruckert is a Scientific Programmer, both also in the Earth and Environmental Systems Institute.  
 
 # Contents
 
