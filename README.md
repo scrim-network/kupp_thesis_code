@@ -13,6 +13,7 @@ Patrick Applegate and Greg Garner contributed to Caitlin's code.  Kelsey Ruckert
 # Contents
 
 * `caitlin_thesis.pdf`: Caitlin's thesis
+* `abstract.md`: abstract for thesis
 * `CaitlinKupp_code_Appendix1.R`: Makes maps showing the progressive inundation of the island in question
 * `CaitlinKupp_code_Appendix2.R`: Makes a cumulative density figure and a table showing the fraction of the island in question that will be covered by various amounts of sea-level rise
 
